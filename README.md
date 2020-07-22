@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Alt Text](./dancing_badgers.gif)
 
 <!--
 **or-yam/or-yam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
