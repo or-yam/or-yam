@@ -1,5 +1,5 @@
 ### Hi there 🏄‍♂️👨‍💻
-![](https://blog.gitter.im/content/images/2015/03/dancing_badgers.gif)
+![](https://screenshots.gamebanana.com/img/ico/sprays/badger.png)
 
 <!--
 **or-yam/or-yam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
