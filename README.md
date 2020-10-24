@@ -20,7 +20,7 @@
 </div>
 
 ---
-
+<!--
 ## 📈  Stats
 
 <div style='list-style-type: none;  display:flex; justify-content:space-between; align-items:center;'>
@@ -35,3 +35,4 @@
     </a>
   </div>
 </div>
+-->
