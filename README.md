@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" syle='background-color:#193549;'>
 <h1 style="text-align:center;"> 🦡</h1>
 
 <h2 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔬</h2>
