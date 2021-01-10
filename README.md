@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="text-align:center;"> 🦡</h1>
 
-<h2 style="text-align:center;"> 🔭 Some Of The Tools I'm Using 🔬</h2>
+<h2 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔬</h2>
 
 <div style='display:flex; justify-content:space-between; align-items:center;'>
 
