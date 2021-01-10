@@ -25,7 +25,7 @@
 ---
 
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
-  <div style='margin:12px'>
+  <div style='margin-bottom:12px'>
     <a href="https://github.com/or-yam/or-yam">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-yam&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
     </a>
