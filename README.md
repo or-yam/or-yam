@@ -21,7 +21,8 @@
 
 ---
 
-## 📈 Stats
+<!--
+## 📈  Stats
 
 <div style='list-style-type: none;  display:flex; justify-content:space-between; align-items:center;'>
   <div style='margin-right:7px'>
@@ -35,3 +36,4 @@
     </a>
   </div>
 </div>
+-->
