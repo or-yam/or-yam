@@ -17,7 +17,7 @@
 
 <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
 
-<img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
+<!-- <img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" /> -->
 
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </div>
