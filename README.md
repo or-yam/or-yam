@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="text-align:center;"> 🦡</h1>
 
-<h2 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔬</h2>
+<!-- <h2 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔬</h2> -->
 
 <div style='display:flex; justify-content:space-between; align-items:center;'>
 
@@ -15,13 +15,15 @@
 
 <img  alt="Node.js" width="35px" src="https://img.icons8.com/color/452/nodejs.png" />
 
-<img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
+<!-- <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" /> -->
 
 <!-- <img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" /> -->
 
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </div>
-
+</br>
+<img alt="code wars badg" src="https://www.codewars.com/users/oryamne/badges/micro"/>
+  
 ---
 
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
