@@ -11,7 +11,7 @@
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </p>
   
-<hr/>
+</br>
 
 <!-- <div style='margin-bottom:12px'>
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-yam&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
@@ -20,7 +20,7 @@
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=or-yam&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Oryam's GitHub Stats" />
 </div>
 
-<hr/>
+</br>
 <h3>Find more</h3>
 <a href="https://www.linkedin.com/in/oryamne/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
