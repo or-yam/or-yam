@@ -32,8 +32,7 @@
 <img src="https://img.shields.io/badge/Code_pen-FE7A16?style=for-the-badge&logo=codepen&logoColor=white&color=black">
 </a>
 <a href="https://dev.to/oryam">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
-"/>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
 
 </div>
