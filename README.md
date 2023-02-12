@@ -13,7 +13,7 @@
 </br>
 
 <div style='margin-bottom:12px'>
-  <img width=350 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=or-yam&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
+  <img width=350 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=or-yam&hide=c%2B%2B,c%23,python,ruby&theme=cobalt&langs_count=5&layout=compact" />
 </div>
 <div>
   <img width=350 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=or-yam&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Oryam's GitHub Stats" />
