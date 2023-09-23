@@ -23,7 +23,7 @@
 </br>
 
 <div>
-<img width=250 align="center" src="https://wilcobadge.vercel.app/api/handler?wilconame=or-yam" />
+<img width=250 align="center" src="https://wilcobadge.vercel.app/api?wilconame=or-yam" />
 </div>
 
 </br>
