@@ -3,7 +3,6 @@
 <h1 style="text-align:right;">🌱 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🦡&nbsp;&nbsp;&nbsp;&nbsp;</h1>
 
 <div>
-    <a href="https://stackoverflow.com/users/13516210/or-yam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=ef8236&color=black"></a>
     <a href="https://codepen.io/oryamne"><img src="https://img.shields.io/badge/Code_pen-FE7A16?style=for-the-badge&logo=codepen&logoColor=white&color=black"></a>
     <a href="https://dev.to/oryam"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/oryamne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black"></a>
